@@ -14,7 +14,7 @@ The goal of this project is to analyze music store sales, customer behavior, and
 ## 🛠️ Tools & Technologies
 - **Microsoft SQL Server (MSSQL)**  
 - **SQL Server Management Studio (SSMS)**  
-- **Music Store Database** (similar to Chinook schema)
+- **Music Store Database** 
 
 ## 🗄️ Database Overview
 The database contains multiple relational tables, such as:  
